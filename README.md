@@ -1,2 +1,2 @@
 # advent-of-code
-Repository storing various solutions to adventofcode.com
+Repository storing various solutions to [Advent of Code](https://adventofcode.com/).
