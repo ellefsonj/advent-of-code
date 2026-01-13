@@ -74,7 +74,7 @@ def day_two_runner():
 
 def main():
     # day_one_runner()
-    # day_two_runner()
+     day_two_runner()
 
 
 if __name__ == "__main__":
